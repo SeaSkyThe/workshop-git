@@ -17,5 +17,10 @@ module.exports = class Calculator{
 	}
 
 
+	divide(a,b){
+		return(a/b);
+	}
+
+
 }
 
